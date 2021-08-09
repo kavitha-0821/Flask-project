@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+table{
+    margin-top: 20px;
+    align-content: center;
+}
+
+table,
+td,
+th {
+  padding: 10px;
+  border: 2px solid #1c87c9;
+  border-radius: 5px;
+  background-color: #e5e5e5;
+  text-align: center;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+td{
+    text-align: center;
+    padding: 5px;
+}
+
+.form{
+    margin-top: 20px;
+}
+
+#content {
+    width: 70%;
+}
